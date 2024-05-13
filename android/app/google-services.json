@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021416937207",
+    "project_id": "franga-9590a",
+    "storage_bucket": "franga-9590a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021416937207:android:09faf433593426fc1d65f2",
+        "android_client_info": {
+          "package_name": "com.example.franga_agent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZUY57PP4DbMiQc8tW50bIk-75d-gWgkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
